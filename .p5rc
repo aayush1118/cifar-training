@@ -1,0 +1,6 @@
+{
+  "name": "cifar-training",
+  "projects": [
+    "training"
+  ]
+}

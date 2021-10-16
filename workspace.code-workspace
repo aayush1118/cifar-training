@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\minor_project"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "cifar-training"
+	}
+}
